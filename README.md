@@ -54,7 +54,8 @@ Using DNP3 Packet Crafter is straightforward:
 - **Monitoring Response:** If the outstation responds, the tool will display the raw response (in hex) or any status message in the GUI's status area. This allows you to observe how the server reacts to the custom packet.
 - **Iterative Testing:** Feel free to modify fields and send multiple packets. This helps in testing different scenarios (e.g., sending a malformed packet vs. a valid control command) to study the outstation's behavior.
 
-*Figure: Screenshot of the DNP3 Packet Crafter GUI showing fields for constructing a packet and the send action.* (Replace `assets/screenshot.png` with an actual screenshot of the tool in use.)
+*Figure1: Screenshot of the DNP3 Packet Crafter GUI showing fields for constructing a packet and the send action.* (Replace `assets/screenshot.png` with an actual screenshot of the tool in use.)
+
 ![DNP3 Packet Crafter GUI Screenshot](images/screenshot.png)
 
 
